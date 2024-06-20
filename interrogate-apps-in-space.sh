@@ -5,7 +5,7 @@ if [ "$#" -ne 1 ];
      echo "Usage cf-download-apps-in-space.sh <space-name>" 
      exit 1
 fi
-echo arg count = $#
+#echo arg count = $#
 
 
 function download-cf-app() {
