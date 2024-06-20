@@ -63,5 +63,4 @@ do
   fi
   rm $appfile
 done
-echo '}]]}'
 
